@@ -292,13 +292,6 @@
             "com.tencent.mm.plugin.recordvideo.activity.MMRecordUI"
         ]
     },
-    "com.android.cts.verifier": {
-        "feature_fov_enable": true,
-        "physicalSizeWidthCam0": 7.68,
-        "physicalSizeHeightCam0": 3.25,
-        "physicalSizeWidthCam1": 4.61,
-        "physicalSizeHeightCam1": 3.25,
-    },
     "com.tencent.zebra": {
         "previewSizeForAPI1Width": 1920,
         "previewSizeForAPI1Height": 1080
