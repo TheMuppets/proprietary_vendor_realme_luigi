@@ -1229,4 +1229,4 @@ PRODUCT_COPY_FILES += \
     vendor/realme/luigi/proprietary/vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
 
 PRODUCT_PACKAGES += \
-    manifest_oplus_fingerprint
+    manifest_oplus_fingerprint.xml
