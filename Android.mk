@@ -6,7 +6,7 @@ LOCAL_PATH := $(call my-dir)
 
 ifeq ($(TARGET_DEVICE),luigi)
 
-$(call add-radio-file-sha1-checked,radio/abl.img,4658158536f1bc0b9788bc24b5e7e8eaade3f973)
+$(call add-radio-file-sha1-checked,radio/abl.img,6246c203d9e9e70e5e6fa2863a4ff3063b3d06b4)
 $(call add-radio-file-sha1-checked,radio/bluetooth.img,6de4216b5371a3fd0db3565a7481c7327dd9625d)
 $(call add-radio-file-sha1-checked,radio/core_nhlos.img,c9fb557d316e5ddcda83f4def2382ca72fb07f22)
 $(call add-radio-file-sha1-checked,radio/devcfg.img,9dc1292afd88ec2e91623c7e670d1e88ec04e5c5)
@@ -21,7 +21,7 @@ $(call add-radio-file-sha1-checked,radio/oplus_sec.img,611818027635a560cf56f6089
 $(call add-radio-file-sha1-checked,radio/oplusstanvbk.img,6d23e90fd6c3c12d4d3098a349a1e77eeb2575f7)
 $(call add-radio-file-sha1-checked,radio/qupfw.img,5a15ef697161f0ab45166021ade811662b9f0509)
 $(call add-radio-file-sha1-checked,radio/rpm.img,993ad61698a11e027644289b35dcfb37fe3888da)
-$(call add-radio-file-sha1-checked,radio/splash.img,df9a19c5ce3efd393ff80c88ddfd3618e1e66b8c)
+$(call add-radio-file-sha1-checked,radio/splash.img,13ed52052b6417308fd0786ae2de5e35cad629a8)
 $(call add-radio-file-sha1-checked,radio/tz.img,e9d8b9ca5188497a2ef0f5a1daf5bc359307d0ef)
 $(call add-radio-file-sha1-checked,radio/uefisecapp.img,405751aa1cf3a7ecb414596605732c86aa5b93f1)
 $(call add-radio-file-sha1-checked,radio/xbl.img,185a27facf3fe6c180a155a31b2103a7800a75cb)
