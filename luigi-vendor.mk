@@ -767,6 +767,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/luigi/proprietary/odm/vendor/firmware/sileadta.b06:$(TARGET_COPY_OUT_ODM)/vendor/firmware/sileadta.b06 \
     vendor/realme/luigi/proprietary/odm/vendor/firmware/sileadta.b07:$(TARGET_COPY_OUT_ODM)/vendor/firmware/sileadta.b07 \
     vendor/realme/luigi/proprietary/odm/vendor/firmware/sileadta.mdt:$(TARGET_COPY_OUT_ODM)/vendor/firmware/sileadta.mdt \
+    vendor/realme/luigi/proprietary/vendor/etc/SVIConfig_4095_22667.xml:$(TARGET_COPY_OUT_VENDOR)/etc/SVIConfig_4095_22667.xml \
     vendor/realme/luigi/proprietary/vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Bluetooth_cal.acdb \
     vendor/realme/luigi/proprietary/vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_General_cal.acdb \
     vendor/realme/luigi/proprietary/vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Global_cal.acdb \
