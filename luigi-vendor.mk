@@ -736,6 +736,12 @@ PRODUCT_COPY_FILES += \
     vendor/realme/luigi/proprietary/odm/etc/sensor/sensor_config.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/sensor_config.json \
     vendor/realme/luigi/proprietary/odm/etc/wifi/bdwlan.bin:$(TARGET_COPY_OUT_ODM)/etc/wifi/bdwlan.bin \
     vendor/realme/luigi/proprietary/odm/etc/wifi/regdb.bin:$(TARGET_COPY_OUT_ODM)/etc/wifi/regdb.bin \
+    vendor/realme/luigi/proprietary/odm/firmware/tp/22667/FW_NF_ILI7807S_HUAXING.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/22667/FW_NF_ILI7807S_HUAXING.img \
+    vendor/realme/luigi/proprietary/odm/firmware/tp/22667/FW_NF_ILI7807S_HUAXING_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/22667/FW_NF_ILI7807S_HUAXING_FAE.img \
+    vendor/realme/luigi/proprietary/odm/firmware/tp/22667/LIMIT_NF_ILI7807S_HUAXING.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/22667/LIMIT_NF_ILI7807S_HUAXING.img \
+    vendor/realme/luigi/proprietary/odm/firmware/tp/22668/FW_NF_ILI7807S_HUAXING.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/22668/FW_NF_ILI7807S_HUAXING.img \
+    vendor/realme/luigi/proprietary/odm/firmware/tp/22668/FW_NF_ILI7807S_HUAXING_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/22668/FW_NF_ILI7807S_HUAXING_FAE.img \
+    vendor/realme/luigi/proprietary/odm/firmware/tp/22668/LIMIT_NF_ILI7807S_HUAXING.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/22668/LIMIT_NF_ILI7807S_HUAXING.img \
     vendor/realme/luigi/proprietary/odm/lib64/camera/com.qti.sensormodule.gc02m1b.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.gc02m1b.bin \
     vendor/realme/luigi/proprietary/odm/lib64/camera/com.qti.sensormodule.s5khm6_rear.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.s5khm6_rear.bin \
     vendor/realme/luigi/proprietary/odm/lib64/camera/com.qti.sensormodule.s5khm6_rear_a303.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.s5khm6_rear_a303.bin \
